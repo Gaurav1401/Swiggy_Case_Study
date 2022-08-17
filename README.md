@@ -91,7 +91,7 @@ In this case study, I have used different concepts of intermediate and Advanced 
 | KFC | 2 |
 
 <br><br>
-**Q5. Month Over Month revenue growth of Swiggy**
+**Q6. Month Over Month revenue growth of Swiggy**
 | Month_num | Monthly_revenue_growth  | 
 | :---:   | :-: |
 | 5 | NULL |
@@ -101,7 +101,7 @@ In this case study, I have used different concepts of intermediate and Advanced 
 The above values are in %ages with respect to previous month
 
 <br><br>
-**Q5. Find the most loyal customers for all restaurant**
+**Q7. Find the most loyal customers for all restaurant**
 | r_name | name  | 
 | :---:   | :-: |
 | Dosa Plaza | Ankit |
