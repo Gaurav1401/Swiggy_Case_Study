@@ -1,6 +1,8 @@
 # Swiggy_Case_Study
 In this case study, I have used different concepts of intermediate and Advanced SQL like CTE's, Window Functions, Nested Subqueries and Joins to gain relevant insights from the data.
 
+**Database**:- [Click here](https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit#gid=0)
+
 ### Tables Structure
 <table>
 <tr><th>users</th><th>restaurants</th><th>orders</th><th>order_details</th><th>menu</th><th>food</th></tr>
@@ -55,6 +57,9 @@ In this case study, I have used different concepts of intermediate and Advanced 
 
 </td>
 </tr> </table>
+
+**primary_id for each table is in bold letters**
+<br>
 
 ### SQL Analysis
 
